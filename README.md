@@ -31,7 +31,7 @@ systems      > motivation
 
 ---
 
-## ~/featured-projects
+## ~/Featured-projects
 
 ###  [QualityHub](https://qas-servicom-compliance-platform.vercel.app/)
 > 🥈 **1st Runner-up**, UNILAG Quality Assurance & SERVICOM Unit Software Hackathon
@@ -55,7 +55,7 @@ An AI-assisted healthcare coordination platform that connects nurses, emergency 
 
 ---
 
-## ~/stack
+## ~/Stack
 
 ```text
 languages   Python · SQL · TypeScript · HTML & CSS
@@ -67,7 +67,7 @@ AI          Prompt Engineering · Google Gemini API · Claude Code · GitHub Cop
 
 ---
 
-## ~/stats
+## ~/Stats
 
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacobi100&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=14400" alt="GitHub stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobi100&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=Jacobi100&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/> <img src="https://komarev.com/ghpvc/?username=Jacobi100&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views"/> </div>
 
@@ -79,7 +79,7 @@ I share what I'm building and learning publicly — backend systems, AI integrat
 
 Follow along: <a href="https://x.com/Ox_jacobi"><b>@Ox_jacobi</b></a> on X
 
-## ~/connect
+## ~/Connect
 
 Open to: **backend & AI engineering roles, internships, and strong engineering collaborations. Let's talk.**.
 
