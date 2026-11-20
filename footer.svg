@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="170" viewBox="0 0 860 170">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0b1a2b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.35">
+      <stop offset="0" stop-color="#00e58c" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#00e58c" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .title { font: 700 30px "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; fill: #00e58c; }
+      .sub   { font: 600 17px "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; fill: #00e58c; }
+      .m     { font-family: "Cambria Math", "STIX Two Math", "Latin Modern Math", "Times New Roman", "DejaVu Serif", serif; fill: #e6edf3; }
+      .it    { font-style: italic; }
+
+      /* whole formula floats slowly up and down */
+      .float { animation: float 6s ease-in-out infinite; }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+
+      /* each symbol bounces in turn */
+      .b { animation: bounce 3.2s ease-in-out infinite; }
+      @keyframes bounce {
+        0%, 20%, 100% { transform: translateY(0); }
+        8%            { transform: translateY(-9px); }
+        14%           { transform: translateY(2px); }
+      }
+      .d1 { animation-delay: 0s; }    .d2 { animation-delay: .15s; }
+      .d3 { animation-delay: .30s; }  .d4 { animation-delay: .45s; }
+      .d5 { animation-delay: .60s; }  .d6 { animation-delay: .75s; }
+      .d7 { animation-delay: .90s; }  .d8 { animation-delay: 1.05s; }
+
+      @media (prefers-reduced-motion: reduce) { .float, .b { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="860" height="170" fill="url(#bg)"/>
+  <rect width="860" height="170" fill="url(#glow)"/>
+
+  <!-- name + tagline -->
+  <text class="title" x="430" y="82" text-anchor="middle">Ox_Jacobi</text>
+  <text class="sub"   x="430" y="108" text-anchor="middle">Building for users</text>
+
+  <!-- ζ(s) = Σ_{n=1}^{∞} 1/n^s -->
+  <g class="float">
+    <g class="b d1"><text class="m it" x="625" y="96" font-size="32">ζ</text></g>
+    <g class="b d2"><text class="m"    x="642" y="96" font-size="32">(</text></g>
+    <g class="b d3"><text class="m it" x="653" y="96" font-size="32">s</text></g>
+    <g class="b d4"><text class="m"    x="667" y="96" font-size="32">)</text></g>
+    <g class="b d5"><text class="m"    x="684" y="96" font-size="32">=</text></g>
+    <g class="b d6">
+      <text class="m"    x="735" y="56"  font-size="16" text-anchor="middle">∞</text>
+      <text class="m"    x="735" y="102" font-size="50" text-anchor="middle">Σ</text>
+      <text class="m" x="735" y="126" font-size="15" text-anchor="middle"><tspan font-style="italic">n</tspan>=1</text>
+    </g>
+    <g class="b d7">
+      <text class="m" x="780" y="80" font-size="24" text-anchor="middle">1</text>
+      <rect x="765" y="87" width="30" height="1.6" fill="#e6edf3"/>
+      <text class="m it" x="776" y="114" font-size="24" text-anchor="middle">n</text>
+      <text class="m it" x="789" y="102" font-size="14" text-anchor="middle">s</text>
+    </g>
+  </g>
+</svg>
