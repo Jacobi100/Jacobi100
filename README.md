@@ -77,7 +77,7 @@ AI          Prompt Engineering · Google Gemini API · Claude Code · GitHub Cop
 
 I share what I'm building and learning publicly — backend systems, AI integration, building for users, and the reality of shipping production software as a student.
 
-Follow along: @Ox_jacobi on X
+Follow along: <a href="https://x.com/Ox_jacobi"><b>@Ox_jacobi</b></a> on X
 
 ## ~/connect
 
