@@ -16,7 +16,7 @@
 
 ---
 
-## ~/about
+## ~/About
 
 Hi, I'm **EL Mustapha**, a math dude and a software engineer who reasons in abstractions.
 
