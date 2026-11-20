@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-# EL Mustapha Abimbola
+# EL Mustapha Abimbola (Ox_Jacobi)
 
 **Backend & AI Software Engineer · Pure Mathematics Undergrad**
 
@@ -62,23 +62,22 @@ languages   Python · SQL · TypeScript · HTML & CSS
 backend     FastAPI · Django · Node.js · Express
 frontend    React · Vite · Tailwind CSS
 databases   MySQL · SQLite · relational database design
-ai          Prompt Engineering · Google Gemini API · Claude Code · GitHub Copilot
+AI          Prompt Engineering · Google Gemini API · Claude Code · GitHub Copilot
 ```
 
 ---
 
 ## ~/stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacobi100&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobi100&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Jacobi100&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
-
-</div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacobi100&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=14400" alt="GitHub stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobi100&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=Jacobi100&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/> <img src="https://komarev.com/ghpvc/?username=Jacobi100&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views"/> </div>
 
 ---
+
+~/Writing & Presence
+
+I share what I'm building and learning publicly — backend systems, AI integration, building for users, and the reality of shipping production software as a student.
+
+Follow along: @Ox_jacobi on X
 
 ## ~/connect
 
@@ -90,3 +89,5 @@ x          x.com/Ox_jacobi
 email      elmustaphaabimbola628@gmail.com
 github     github.com/Jacobi100
 ```
+
+<div align="center"> <img src="./footer.svg" width="100%" alt="Ox_Jacobi · Building for users · ζ(s) = Σ 1/n^s"/> </div>
