@@ -33,21 +33,21 @@ systems      > motivation
 
 ## ~/featured-projects
 
-### 🏛️ [QualityHub](https://qas-servicom-compliance-platform.vercel.app/)
+###  [QualityHub](https://qas-servicom-compliance-platform.vercel.app/)
 > 🥈 **1st Runner-up**, UNILAG Quality Assurance & SERVICOM Unit Software Hackathon
 
 A quality-assurance platform for universities. It brings together student evaluations of courses and lecturers, lecture-hall quality inspections and SERVICOM complaint handling. Students, lecturers, QA officers, SERVICOM officers and leadership get one place to report problems, track them against deadlines and act on them.
 
 `React 19` `TypeScript 5.8` `Vite 6` `localStorage`
 
-### 📦 [SecondShelf](https://team19.xtradot.co/)
-> 🏅 **Top 10 Finalist**, Access Youth Tech Forge Hackathon
+###  [SecondShelf](https://team19.xtradot.co/)
+>  **Top 10 Finalist**, Access Youth Tech Forge Hackathon
 
 A stock-rescue marketplace. Distributors scan near-expiry cartons and sell them at a discount before they spoil, buyers place orders, and food banks coordinate pickups. It also handles secure payouts, a bank-readable **Business Passport**, carbon-credit sales and inventory-loan eligibility checks.
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `Motion` `Node.js` `Express` `SQLite` `ZXing / QR scanning` `Access Bank & Xtradot sandbox APIs`
 
-### 🏥 [CareBridge](https://carebridge--zeta.vercel.app/)
+###  [CareBridge](https://carebridge--zeta.vercel.app/)
 
 An AI-assisted healthcare coordination platform that connects nurses, emergency teams, hospitals and patients. It uses **Gemini** to turn spoken clinical notes into structured records, flags patients whose vitals are getting worse, and sends emergency referrals to hospitals with the right beds and specialists. Patient information gets to the hospital before the patient does.
 
@@ -60,7 +60,7 @@ An AI-assisted healthcare coordination platform that connects nurses, emergency 
 ```text
 languages   Python · SQL · TypeScript · HTML & CSS
 backend     FastAPI · Django · Node.js · Express
-frontend    React · Vite · Tailwind CSS
+frontend    AI-assisted development
 databases   MySQL · SQLite · relational database design
 AI          Prompt Engineering · Google Gemini API · Claude Code · GitHub Copilot
 ```
