@@ -59,10 +59,10 @@ An AI-assisted healthcare coordination platform that connects nurses, emergency 
 
 ```text
 languages   Python · SQL · TypeScript · HTML & CSS
-backend     FastAPI · Django · Node.js · Express
+backend     FastAPI · Django · Node.js · 
 frontend    AI-assisted development
 databases   MySQL · SQLite · relational database design
-AI          Prompt Engineering · Google Gemini API · Claude Code · GitHub Copilot
+AI          Prompt Engineering · Gemini API · Claude Code · GitHub Copilot
 ```
 
 ---
