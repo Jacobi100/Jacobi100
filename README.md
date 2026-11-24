@@ -4,11 +4,7 @@
 # EL Mustapha Abimbola (Ox_Jacobi)
 
 **Backend & AI Software Engineer · Pure Mathematics Undergrad**
-
-<a href="https://linkedin.com/in/el-mustapha-abimbola-93bb0a351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/Ox_jacobi"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:elmustaphaabimbola628@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Jacobi100"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/el-mustapha-abimbola-93bb0a351"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/Ox_jacobi"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a> <a href="mailto:elmustaphaabimbola628@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/Jacobi100"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> <a href="./EL%20Mustapha%20Abimbola-Resume.pdf"><img src="https://img.shields.io/badge/Resume-181717?style=flat&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 
 *I reason in abstractions and ship dependable backends.*
 
